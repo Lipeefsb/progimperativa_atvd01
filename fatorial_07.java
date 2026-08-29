@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fatorial_06 {
+public class fatorial_07 {
 
     public static long calcularFatorial(int numero) {
         long fatorial = 1;
